@@ -1,0 +1,5 @@
+{
+  "name": "Urban Tier Project Management",
+  "description": "A web application to manage building and room installation projects, track status, log issues, and manage project-related images. Features include a statistical dashboard, per-project progress tracking, room organization by floor, and search functionality.",
+  "requestFramePermissions": []
+}
